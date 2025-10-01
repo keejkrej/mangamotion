@@ -6,3 +6,6 @@ __pycache__/
 
 # Generated files
 demo/generated_output/
+
+# Environment variables
+.env
